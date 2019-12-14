@@ -1,0 +1,48 @@
+.jumbotron {
+    max-width: 960px;
+    margin: 0 auto;
+    border: 2px dotted #55e9ee;
+    border-bottom: none;
+}
+
+.display-4 {
+    font-size: 40px;
+    font-size: 4.5vw;
+    font-weight: bolder;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+#passBox {
+    max-width: 960px;
+    margin: 0 auto;
+    padding-top: 25px;
+    background-color: #fff;
+    border: 2px dotted #55e9ee;
+    border-top: none;
+}
+body {
+    background-image: url("https://cdn5.f-cdn.com/contestentries/1370548/29833877/5b4f15b1ea4aa_thumb900.jpg");
+}
+
+#generate {
+    background-color: #55e9ee;
+    box-shadow: none;
+    border: none;
+    padding: 5px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+#copy {
+    box-shadow: none;
+    border: none;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.content {
+    margin: 10% 5% 10% 5%;
+}
